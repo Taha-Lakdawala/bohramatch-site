@@ -31,5 +31,6 @@ either changes. A stale date on a privacy policy is something reviewers check.
 
 ## Contact
 
-The contact address on every page is `tahalakdawala03@gmail.com`. It has to be a real,
-monitored inbox, because both Meta and Google check it.
+The contact address on every page is `bohramatch@gmail.com`. It has to be a real,
+monitored inbox, because both Meta and Google check it. No personal name or address
+appears anywhere on the site; the operator is identified only as BohraMatch.
